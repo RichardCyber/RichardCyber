@@ -1,1 +1,2 @@
-# RichardCyber
+Afetr setting up the Cloud Network using Azure portal, This project was design to deploy virtual machines onto the network to host the ELK stack server in order to configure and monitor the cloud network.
+This repository contains completed cybersecurity projects created during my Cybersecurity Boot Camp at Columbia University in 2021. The outline of this repository includes: Cloud Security with ELK Stack Project/ Cloud Infrastructure Diagram/ Ansible Playbooks/ Beats Config Files/ README Specific File/
